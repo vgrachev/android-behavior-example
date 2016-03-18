@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AvatarBehavior">
+        <attr name="pinnedToolbarId" format="integer"/>
+        <attr name="startViewId" format="integer"/>
+        <attr name="finalViewId" format="integer"/>
+        <attr name="toolbarTitleExpandedId" format="integer"/>
+        <attr name="toolbarSubtitleExpandedId" format="integer"/>
+        <attr name="toolbarTitleCollapsedId" format="integer"/>
+        <attr name="toolbarSubtitleCollapsedId" format="integer"/>
+    </declare-styleable>
+</resources>
